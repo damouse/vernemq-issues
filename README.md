@@ -21,3 +21,5 @@ When lines 19-20 are commented out, `vmq-admin` works. When they are commented i
 plugins.vernemq_elixir_plugin = on
 plugins.vernemq_elixir_plugin.path = /vernemq_elixir_plugin
 ```
+
+NOTE: see solution for issue [here](https://github.com/vernemq/vernemq/issues/1398)
