@@ -22,4 +22,4 @@ plugins.vernemq_elixir_plugin = on
 plugins.vernemq_elixir_plugin.path = /vernemq_elixir_plugin
 ```
 
-NOTE: see solution for issue [here](https://github.com/vernemq/vernemq/issues/1398)
+NOTE: see fix [here](https://github.com/vernemq/vernemq/issues/1398).
